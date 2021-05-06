@@ -3,10 +3,13 @@
   "version": "0.1.0",
   "main": "dist/index.js",
   "private": false,
-  "files": [ "dist", "README.md" ],
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "repository": {
-      "type": "git",
-      "url": "URL_OF_YOUR_REPOSITORY"
+    "type": "git",
+    "url": "URL_OF_YOUR_REPOSITORY"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
