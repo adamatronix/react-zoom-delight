@@ -1,9 +1,5 @@
-// components/index.js
-
-/*
-import Button from './Button';
+import ZoomDelight from './ZoomDelight/ZoomDelight';
 
 export { 
-    Button
+    ZoomDelight
 };
-*/
